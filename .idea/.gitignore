@@ -6,3 +6,13 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/compiler.xml
+/gradle.xml
+/libraries/gradle_wrapper.xml
+/libraries/gradle_wrapper1.xml
+/jarRepositories.xml
+/libraries/libs.xml
+/misc.xml
+/modules.xml
+/PsychShape.iml
+/vcs.xml

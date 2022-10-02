@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
 
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class,
 		HibernateJpaAutoConfiguration.class})
-public class PsychshapeApplication {
+public class PsychShapeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PsychshapeApplication.class, args);
+		SpringApplication.run(PsychShapeApplication.class, args);
 	}
 
 }
